@@ -3,7 +3,6 @@
 body{
     margin: auto;
     background-color: #EAD2AC;
-    font-family: "Great Vibes", cursive;
 }
 main{
     box-shadow: 5px 5px 15px #EABA6B;
@@ -18,4 +17,15 @@ main{
 h1{
     text-shadow: 1px 1px 2px #0197F6;
     color: #69385C;
+}
+a{
+    color: #0197F6;
+    text-decoration: none;
+}
+a:hover{
+    color: #69385C;
+    text-decoration: underline;
+}
+#principal{
+    font-family: "Great Vibes", cursive;
 }
