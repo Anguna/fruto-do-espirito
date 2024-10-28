@@ -45,3 +45,7 @@ abbr{
 abbr:hover {
     text-decoration: underline;
 }
+.unico{
+    background-color: gray;
+    color: white;
+}
