@@ -8,6 +8,7 @@
     --cor3:#EAD2AC;
 }
 body{
+    font-family: Arial, Helvetica, sans-serif;
     padding: 20px;
     margin: auto;
     background-image: linear-gradient(to left, var(--cor0), var(--cor1));
