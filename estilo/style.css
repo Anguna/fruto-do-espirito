@@ -41,7 +41,11 @@ a:hover{
 }
 img{
     height: 400px;
-    width: 600px;
+    width: 775px;
+}
+img.pequeno{
+    height: 300px;
+    width: 300px;
 }
 section{
     font-size: 20px;
