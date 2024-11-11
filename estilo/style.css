@@ -63,3 +63,9 @@ abbr:hover {
     background-color: gray;
     color: white;
 }
+@media (max-width: 850px){
+    img{ 
+    height: 300px;
+    width: 400px;
+    }
+}
