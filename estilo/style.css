@@ -40,12 +40,7 @@ a:hover{
     font-family: "Great Vibes", cursive;
 }
 img{
-    height: 400px;
-    width: 775px;
-}
-img.pequeno{
-    height: 300px;
-    width: 300px;
+    width: 100%;
 }
 section{
     font-size: 20px;
@@ -62,22 +57,4 @@ abbr:hover {
 .unico{
     background-color: gray;
     color: white;
-}
-@media (min-width: 342px){
-    img{ 
-        height: 300px;
-        width: 400px;
-    }
-}
-@media (min-width: 640px){
-    img{
-        height: 400px;
-        width: 560px;
-    }
-}
-@media (min-width: 830px){
-    img{
-    height: 400px;
-    width: 775px;
-    }
 }
